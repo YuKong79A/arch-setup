@@ -1,0 +1,59 @@
+#!/bin/bash
+set -euo pipefail
+
+# =============================================================================
+# 功能描述:
+#   使用 Noctalia 随机切换本地壁纸，并发送桌面通知。
+#
+# 选项:
+#   -s: 静默模式，关闭桌面通知
+#   -h: 显示帮助信息
+#
+# 依赖:
+#   noctalia, gdbus 或 notify-send
+# =============================================================================
+
+SILENT_MODE=false
+
+usage() {
+    echo "用法: $(basename "$0") [-s] [-h]"
+    echo "  -s  (Silent)  静默模式：不发送任何桌面通知"
+    echo "  -h  帮助信息"
+    exit 0
+}
+
+while getopts "sh" opt; do
+  case $opt in
+    s) SILENT_MODE=true ;;
+    h) usage ;;
+    *) usage ;;
+  esac
+done
+
+send_notify() {
+    if [ "$SILENT_MODE" = true ]; then
+        return 0
+    fi
+
+    if command -v notify-send > /dev/null 2>&1; then
+        notify-send "$1" "$2" ${3:-}
+    elif command -v gdbus > /dev/null 2>&1; then
+        gdbus call --session \
+            --dest org.freedesktop.Notifications \
+            --object-path /org/freedesktop/Notifications \
+            --method org.freedesktop.Notifications.Notify \
+            "Wallpaper" 0 "" "$1" "$2" "[]" "{}" 5000 > /dev/null 2>&1 || true
+    fi
+}
+
+if ! noctalia msg wallpaper-random; then
+    send_notify "Wallpaper Error" "Failed to switch random wallpaper" "--expire-time=7000"
+    exit 1
+fi
+
+CURRENT_WALLPAPER=$(noctalia msg wallpaper-get 2>/dev/null || true)
+if [ -n "$CURRENT_WALLPAPER" ]; then
+    send_notify "Wallpaper Updated" "Random wallpaper applied: $(basename "$CURRENT_WALLPAPER")" "--expire-time=5000"
+else
+    send_notify "Wallpaper Updated" "Random wallpaper applied via Noctalia" "--expire-time=5000"
+fi

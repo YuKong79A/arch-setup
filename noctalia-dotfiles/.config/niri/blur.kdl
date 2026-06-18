@@ -1,0 +1,49 @@
+// --- NIRI BLUR START ---
+// 顶层的blur配置，细节调整blur的效果
+blur {
+    passes 3 // more passes = stronger blur (default: 3) noctalia default 2
+    offset 3 // sample distance per pass (default: 3.0)
+    noise 0.02 // grain overlay (default: 0.02) noctalia default 0.03
+    saturation 1.5 // color saturation boost (default: 1.5) noctalia default 1.0
+}
+// 全局窗口规则。让所有普通窗口以xray的形式显示blur。xray仅渲染一次模糊版本的背景，然后将其以类似“壁纸”的形式显示在窗口后面，不是实时渲染模糊，所以完全没有性能消耗。
+window-rule {
+    background-effect {
+        xray false
+        blur true
+    }
+}
+/*
+  Noctalia
+  Disable xray on all our surfaces so it looks more realistic.
+  Noctalia publishes blur regions automatically when ext-background-effects is available.
+*/
+
+
+layer-rule {
+    match namespace="^noctalia-(bar-[^\"]+|notification|dock|panel|attached-panel|osd)$"
+    background-effect {
+        xray false
+        blur true
+    }
+}
+
+// 浮动窗口禁用xray可以实时渲染模糊效果但是性能消耗高，开启xray会穿过浮动窗口底下的窗口直接透视到桌面。看个人喜好选择禁用与否吧。
+window-rule {
+    match is-floating=true
+    background-effect {
+        xray false
+        blur true
+    }
+}
+// fuzzle专属的layer规则
+layer-rule {
+    match namespace="^launcher$"
+    geometry-corner-radius 8
+    background-effect {
+        xray false
+	blur true
+    }
+}
+// --- NIRI BLUR END ---
+

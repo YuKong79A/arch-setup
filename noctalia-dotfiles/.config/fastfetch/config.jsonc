@@ -1,0 +1,90 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "/home/yukong/.config/fastfetch/ascii.txt",
+        "color": {
+            "1": "#f5bd59"
+        }
+    },
+    "display": {
+        "separator": " ",
+        "color": "#ebe1d5"
+    },
+    "modules": [
+        {
+            "type": "os",
+            "key": "󰣇 ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "packages",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "wm",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "terminalfont",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "cursor",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "display",
+            "key": "󰍹 ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "cpu",
+            "key": "󰻠 ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "gpu",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "disk",
+            "key": "󰋊 ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "player",
+            "key": " ",
+            "keyColor": "#f5bd59"
+        },
+        {
+            "type": "media",
+            "key": "󰝚 ",
+            "keyColor": "#f5bd59"
+        }
+    ]
+}

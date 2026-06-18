@@ -1,0 +1,442 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.16.1
+#@/tick	1279
+#@/user_id	cf1ad063-ae0e-4b0b-9414-40d81ae789a9
+a 	啊	c=6 d=4.74736 t=1279
+an jian 	按键	c=1 d=0.927743 t=1279
+an pai 	安排	c=1 d=1 t=1279
+an se 	暗色	c=1 d=0.97531 t=1279
+an zhao 	按照	c=4 d=2.36915 t=1279
+an zhe ge 	按这个	c=1 d=0.995012 t=1279
+an zhuang 	安装	c=10 d=5.75195 t=1279
+an zhuang le 	安装了	c=1 d=1 t=1233
+an zhuang zai 	安装在	c=1 d=1 t=1271
+ba 	把	c=11 d=6.12751 t=1279
+ban ben 	版本	c=1 d=0.718924 t=1279
+bang wo 	帮我	c=1 d=0.995012 t=1279
+bao cuo 	报错	c=1 d=1.09418 t=1279
+bao han 	包含	c=1 d=0.860708 t=1279
+bao liu 	保留	c=4 d=3.01576 t=1279
+bei fen 	备份	c=1 d=0.88692 t=1279
+bei jing 	背景	c=1 d=1 t=1279
+ben 	本	c=1 d=1 t=1207
+bi jiao 	比较	c=1 d=0.995012 t=1279
+bi ru 	比如	c=1 d=0.932394 t=1279
+bi zhi 	壁纸	c=7 d=5.9611 t=1279
+bian cheng 	变成	c=1 d=0.722527 t=1279
+biao shi 	表示	c=1 d=0.965605 t=1279
+bie lian 	别恋	c=0 d=0.0965605 t=1279
+bing 	并	c=2 d=1.98927 t=1279
+bing gao su wo 	并告诉我	c=1 d=0.965605 t=1279
+bing rang 	并让	c=1 d=0.900325 t=1279
+bu 	不	c=0 d=0.0955997 t=1279
+bu bao cuo 	不报错	c=1 d=0.960789 t=1279
+bu dong 	不动	c=1 d=1 t=1279
+bu guo 	不过	c=2 d=1.87203 t=1279
+bu he shi 	不合适	c=1 d=0.882497 t=1279
+bu hui 	不会	c=2 d=1.85829 t=1279
+bu liao 	不了	c=1 d=0.970446 t=1279
+bu neng 	不能	c=6 d=4.61868 t=1279
+bu shi 	不是	c=1 d=0.869358 t=1279
+bu xing 	不行	c=5 d=4.00623 t=1279
+bu xu yao 	不需要	c=1 d=1 t=1279
+bu yao 	不要	c=7 d=4.06759 t=1279
+bu yi yang 	不一样	c=3 d=2.31014 t=1279
+bu yi zhi 	不一致	c=2 d=1.88544 t=1279
+bu yong 	不用	c=3 d=1.97248 t=1279
+bu yong le 	不用了	c=1 d=0.873716 t=1279
+cai dan 	菜单	c=2 d=1.83946 t=1279
+can kao 	参考	c=1 d=0.97531 t=1279
+can shu 	参数	c=1 d=0.790571 t=1279
+cang ku 	仓库	c=1 d=0.733447 t=1279
+cha jian 	插件	c=1 d=0.932394 t=1279
+chao guo 	超过	c=1 d=0.99005 t=1279
+che hui 	撤回	c=1 d=1 t=1225
+chen jin shi 	沉浸式	c=1 d=0.995012 t=1279
+cheng 	成	c=4 d=3.52383 t=1279
+cheng xu 	程序	c=1 d=0.923116 t=1279
+chi gua 	吃瓜	c=1 d=0.995012 t=1279
+chong qi 	重启	c=1 d=0.97531 t=1279
+chong xin 	重新	c=1 d=0.99005 t=1279
+chu xian 	出现	c=1 d=0.99005 t=1279
+chuang kou 	窗口	c=6 d=5.23702 t=1279
+cong 	从	c=3 d=2.17 t=1279
+da 	大	c=4 d=3.37451 t=1279
+da dian 	大点	c=1 d=0.847894 t=1279
+da gai 	大概	c=1 d=0.946485 t=1279
+da kai 	打开	c=5 d=4.25542 t=1279
+da sai 	大赛	c=1 d=0.951229 t=1279
+da xiao 	大小	c=4 d=3.13075 t=1279
+dai 	带	c=0 d=0.0995012 t=1279
+dai dai 	呆呆	c=0 d=0.0995012 t=1279
+dai dai dai dai dai 	带呆呆呆呆	c=1 d=1 t=1279
+dan 	但	c=3 d=2.51534 t=1279
+dan shi 	但是	c=3 d=2.64308 t=1279
+dang qian 	当前	c=1 d=0.995012 t=1279
+dao 	到	c=5 d=3.33716 t=1279
+dao ru 	导入	c=1 d=0.748264 t=1279
+de 	的	c=141 d=35.5348 t=1279
+di an 	堤岸	c=1 d=0.99005 t=1279
+di er wei 	第二位	c=1 d=1 t=1279
+di san bu 	第三步	c=1 d=0.937067 t=1279
+di san wei 	第三位	c=1 d=1 t=1279
+di yi ge 	第一个	c=1 d=0.923116 t=1279
+dian 	点	c=1 d=0.831104 t=1279
+dian le 	点了	c=1 d=0.995012 t=1279
+dian nao 	电脑	c=2 d=1.31113 t=1279
+diao yong 	调用	c=1 d=0.980199 t=1279
+dong 	动	c=2 d=1.88637 t=1279
+dong ai 	动爱	c=7 d=6.02342 t=1279
+dou 	都	c=2 d=1.86593 t=1279
+dou shi 	都是	c=1 d=0.860708 t=1279
+dou you 	都有	c=1 d=0.985112 t=1279
+dui bi 	对比	c=1 d=1 t=1247
+dui qi 	对其	c=2 d=1.68533 t=1279
+duo shao 	多少	c=2 d=1.87912 t=1279
+duo shao a 	多少啊	c=3 d=2.66525 t=1279
+duo yu 	多余	c=3 d=2.81778 t=1279
+er ci yuan 	二次元	c=1 d=0.99005 t=1279
+er qie 	而且	c=1 d=0.941765 t=1279
+fa song 	发送	c=1 d=0.99005 t=1279
+fan yi 	翻译	c=3 d=2.90398 t=1279
+fan ying 	反应	c=1 d=0.985112 t=1279
+fang an 	方案	c=8 d=6.34969 t=1279
+fang dao 	放到	c=1 d=0.995012 t=1279
+fang shi 	方式	c=1 d=0.955997 t=1279
+fen 	分	c=1 d=0.985112 t=1279
+fen bian lv 	分辨率	c=1 d=0.97531 t=1279
+fen bie 	分别	c=5 d=4.04769 t=1279
+fen kai 	分开	c=1 d=0.856415 t=1279
+fen lan 	分栏	c=1 d=0.790571 t=1279
+fen liu 	分流	c=2 d=1.9605 t=1279
+feng 	风	c=1 d=0.995012 t=1279
+fu zhi 	复制	c=1 d=1 t=1221
+gai 	改	c=2 d=1.80469 t=1279
+gai 	该	c=2 d=1.88544 t=1279
+gai bian 	改变	c=1 d=0.923116 t=1279
+gai cheng 	改成	c=3 d=2.36902 t=1279
+gan ma 	干嘛	c=2 d=1.41325 t=1279
+gang xian 	钢线	c=1 d=0.97531 t=1279
+gao du 	高度	c=1 d=0.843665 t=1279
+gao su 	告诉	c=0 d=0.0960789 t=1279
+gao su ni le 	告诉你了	c=1 d=0.873716 t=1279
+gao su wo 	告诉我	c=1 d=0.737123 t=1279
+ge 	个	c=0 d=0.0955997 t=1279
+ge ge 	各个	c=1 d=1 t=1236
+gei o 	给哦	c=1 d=0.729789 t=1279
+gei wo 	给我	c=1 d=0.733447 t=1279
+gen ju 	根据	c=3 d=1.80931 t=1279
+gen sui 	跟随	c=2 d=1.86269 t=1279
+geng huan 	更换	c=2 d=1.95101 t=1279
+geng xin 	更新	c=1 d=0.970446 t=1279
+gong neng 	功能	c=2 d=1.55275 t=1279
+gong zuo qu 	工作区	c=2 d=1.79203 t=1279
+guai 	怪	c=1 d=0.806541 t=1279
+guan fang 	官方	c=1 d=0.985112 t=1279
+guang 	光	c=0 d=0.0960789 t=1279
+guang biao 	光标	c=1 d=0.715338 t=1279
+guo cheng 	过程	c=1 d=0.895834 t=1279
+guo lai 	过来	c=0 d=0.0941765 t=1279
+hai shi 	还是	c=8 d=5.25361 t=1279
+han hua 	汉化	c=1 d=1 t=1279
+hao xiang shi 	好像是	c=1 d=0.970446 t=1279
+he 	和	c=19 d=8.45185 t=1279
+he shi 	合适	c=1 d=1 t=1279
+he wo 	和我	c=2 d=1.36452 t=1279
+heng 	横	c=1 d=0.985112 t=1279
+heng fu 	横幅	c=1 d=0.965605 t=1279
+hou 	后	c=2 d=1.6705 t=1279
+hua 	话	c=1 d=0.937067 t=1279
+huan 	换	c=2 d=1.6608 t=1279
+huan cheng 	换成	c=8 d=5.12869 t=1279
+huan cun 	缓存	c=4 d=3.11976 t=1279
+hui 	会	c=6 d=4.47248 t=1279
+hui fu 	恢复	c=5 d=3.50289 t=1279
+ji chang 	机场	c=3 d=2.88247 t=1279
+ji pin 	极品	c=1 d=0.97531 t=1279
+ji xu 	继续	c=2 d=1.44056 t=1279
+jia 	加	c=1 d=0.786628 t=1279
+jia shang 	加上	c=1 d=0.97531 t=1279
+jian cha 	检查	c=1 d=0.918512 t=1279
+jian ju 	间距	c=5 d=4.12286 t=1279
+jiao ben 	脚本	c=12 d=7.47452 t=1279
+jie mian 	界面	c=1 d=1 t=1279
+jie tu 	截图	c=1 d=0.946485 t=1279
+jie xi 	解析	c=1 d=0.67368 t=1279
+jin jin 	仅仅	c=1 d=1 t=1264
+jin xing 	进行	c=1 d=0.995012 t=1279
+jiu 	就	c=1 d=0.856415 t=1279
+ju 	局	c=1 d=0.878095 t=1279
+kai qi 	开启	c=1 d=0.826959 t=1279
+kan qi lai 	看起来	c=1 d=0.99005 t=1279
+ke neng 	可能	c=1 d=0.97531 t=1279
+ke yi 	可以	c=4 d=2.63947 t=1279
+kong zhi 	控制	c=4 d=3.08281 t=1279
+kuai jie jian 	快捷键	c=5 d=4.62318 t=1279
+kuan du 	宽度	c=2 d=1.77819 t=1279
+kuang zhi 	矿质	c=1 d=0.99005 t=1279
+lai 	来	c=2 d=1.35195 t=1279
+lang 	郎	c=1 d=0.985112 t=1279
+le 	了	c=11 d=6.5112 t=1279
+li 	里	c=4 d=2.73364 t=1279
+li mian 	里面	c=1 d=0.951229 t=1279
+lian dong 	联动	c=1 d=0.965605 t=1279
+lian jie 	连接	c=1 d=0.955997 t=1279
+liang ge 	两个	c=3 d=2.83545 t=1279
+lie chu 	列出	c=1 d=0.88692 t=1279
+ling wai 	另外	c=1 d=0.927743 t=1279
+liu liang 	流量	c=0 d=0.0960789 t=1279
+liu liang guang 	流量光	c=1 d=0.965605 t=1279
+long zu 	龙族	c=1 d=0.865022 t=1279
+lu you 	路由	c=3 d=2.59848 t=1279
+luo xia yu gu wu 	落霞与孤鹜	c=1 d=0.802519 t=1279
+ma 	吗	c=14 d=7.00832 t=1279
+man 	慢	c=4 d=3.42496 t=1279
+mei 	没	c=2 d=1.93605 t=1279
+mei bian 	没变	c=1 d=1 t=1279
+mei cheng gong 	没成功	c=1 d=1 t=1279
+mei fan ying 	没反应	c=1 d=1 t=1279
+mei guan xi 	没关系	c=1 d=1 t=1279
+mei guo 	美国	c=1 d=1 t=1279
+mei you 	没有	c=11 d=7.65098 t=1279
+meng 	梦	c=0 d=0.0937067 t=1279
+ming ling 	命令	c=1 d=0.985112 t=1279
+mo hu 	模糊	c=1 d=0.802519 t=1279
+mu ban 	模板	c=11 d=8.06531 t=1279
+mu lu 	目录	c=1 d=0.909373 t=1279
+na 	哪	c=1 d=0.794534 t=1279
+na ge 	哪个	c=1 d=0.99005 t=1279
+na li 	哪里	c=1 d=1 t=1273
+na li 	那里	c=1 d=1 t=1272
+na me 	那么	c=1 d=0.941765 t=1279
+na nian 	那年	c=1 d=0.965605 t=1279
+na qu le 	哪去了	c=1 d=0.782705 t=1279
+ne 	呢	c=7 d=4.36495 t=1279
+nei cun 	内存	c=1 d=0.937067 t=1279
+nen bu nen 	嫩不嫩	c=1 d=0.778801 t=1279
+neng 	能	c=6 d=4.10059 t=1279
+neng bu neng 	能不能	c=1 d=0.782705 t=1279
+ni 	你	c=5 d=2.76754 t=1279
+ni de 	你的	c=1 d=0.778801 t=1279
+ni hao 	你好	c=1 d=0.856415 t=1279
+ni kan kan 	你看看	c=1 d=0.941765 t=1279
+ni kan yi xia 	你看一下	c=1 d=0.900325 t=1279
+ni lai 	你来	c=1 d=0.955997 t=1279
+ni meng bu neng 	你梦不能	c=1 d=0.941765 t=1279
+ni yao 	你要	c=1 d=0.980199 t=1279
+pei se 	配色	c=7 d=6.20477 t=1279
+pei zhi 	配置	c=22 d=8.28399 t=1279
+pei zhi cheng 	配置成	c=1 d=0.704688 t=1279
+pei zhi wen jian 	配置文件	c=1 d=0.83527 t=1279
+pian cha 	偏差	c=2 d=1.97032 t=1279
+qi dong 	启动	c=1 d=0.995012 t=1279
+qi guai 	奇怪	c=1 d=1 t=1279
+qi ta 	其他	c=1 d=0.980199 t=1279
+qi yong 	启用	c=3 d=2.78309 t=1279
+qi yu 	其余	c=2 d=1.51651 t=1279
+qie huan 	切换	c=1 d=0.965605 t=1279
+qing chu 	清除	c=1 d=0.99005 t=1279
+qing kuang 	情况	c=1 d=0.770043 t=1279
+qing li 	清理	c=5 d=3.86877 t=1279
+qing ni 	请你	c=1 d=0.970446 t=1279
+qiu shuang 	秋霜	c=0 d=0.0965605 t=1279
+qiu shuang bie lian 	秋霜别恋	c=1 d=0.970446 t=1279
+qu bie 	区别	c=4 d=2.29649 t=1279
+qu ming zi 	取名字	c=0 d=0.0771052 t=1279
+qu se 	取色	c=2 d=1.83602 t=1279
+qu xiao 	取消	c=1 d=0.839457 t=1279
+quan 	全	c=1 d=0.873716 t=1279
+que le 	缺了	c=1 d=0.726149 t=1279
+que shi 	确实	c=1 d=0.822835 t=1279
+que shi 	缺失	c=1 d=0.826959 t=1279
+rang 	让	c=2 d=1.89413 t=1279
+rang ta 	让它	c=1 d=0.951229 t=1279
+rang zhan 	让站	c=1 d=0.970446 t=1279
+ren he 	任何	c=1 d=0.980199 t=1279
+ri ben 	日本	c=1 d=0.878095 t=1279
+ri wen 	日文	c=1 d=0.995012 t=1279
+ru guo 	如果	c=2 d=1.5075 t=1279
+ru he 	如何	c=1 d=0.980199 t=1279
+ruan jian 	软件	c=3 d=2.00675 t=1279
+ruan jian yuan 	软件源	c=1 d=1 t=1232
+sa 	撒	c=2 d=1.83712 t=1279
+san da 	三大	c=1 d=0.891366 t=1279
+shan chu 	删除	c=3 d=2.39993 t=1279
+shan tui 	闪退	c=1 d=0.786628 t=1279
+shang 	上	c=2 d=1.57176 t=1279
+shang de 	上的	c=0 d=0.0873716 t=1279
+shang de dan shi a 	上的但是啊	c=1 d=0.878095 t=1279
+shao le 	少了	c=1 d=1 t=1217
+she zhi 	设置	c=11 d=8.18275 t=1279
+shen me 	什么	c=19 d=10.9599 t=1279
+sheng cheng 	生成	c=1 d=0.891366 t=1279
+sheng xiao 	生效	c=4 d=3.82512 t=1279
+sheng yin 	声音	c=1 d=1 t=1279
+shi 	是	c=29 d=12.9152 t=1279
+shi bai 	失败	c=1 d=1 t=1279
+shi bu shi 	是不是	c=1 d=0.794534 t=1279
+shi gan ma de 	是干嘛的	c=1 d=0.941765 t=1279
+shi shen me 	是什么	c=3 d=2.75407 t=1279
+shi xian 	实现	c=2 d=1.74547 t=1279
+shi xian fang an 	实现方案	c=1 d=0.980199 t=1279
+shi xiao le 	失效了	c=1 d=1 t=1279
+shi yan xing 	实验性	c=1 d=0.97531 t=1279
+shou ri 	首日	c=0 d=0.0937067 t=1279
+shou ri neng 	首日能	c=1 d=0.941765 t=1279
+shu biao 	鼠标	c=2 d=1.89382 t=1279
+shu ru 	输入	c=1 d=0.980199 t=1279
+shu ru fa 	输入法	c=3 d=2.76498 t=1279
+shu xian 	竖线	c=3 d=2.66368 t=1279
+shun xu 	顺序	c=7 d=6.57122 t=1279
+shuo de 	说的	c=1 d=0.985112 t=1279
+song 	送	c=1 d=0.843665 t=1279
+song kai 	松开	c=1 d=0.847894 t=1279
+sou suo yin qing 	搜索引擎	c=1 d=0.985112 t=1279
+suo you 	所有	c=1 d=0.955997 t=1279
+ta 	它	c=5 d=4.14651 t=1279
+tai 	太	c=1 d=0.802519 t=1279
+tai duo 	太多	c=1 d=0.941765 t=1279
+tai xiao 	太小	c=1 d=0.909373 t=1279
+tan hua 	探花	c=1 d=0.980199 t=1279
+tang shan 	唐山	c=1 d=0.97531 t=1279
+tang shan shi 	唐山市	c=1 d=0.980199 t=1279
+tian jia 	添加	c=5 d=3.05029 t=1279
+tian jia zhe ge 	添加这个	c=1 d=0.960789 t=1279
+tiao da 	调大	c=2 d=1.90305 t=1279
+tong zhi 	通知	c=5 d=4.7401 t=1279
+tou ming 	透明	c=1 d=1 t=1279
+tu biao 	图标	c=5 d=4.61118 t=1279
+tu pian 	图片	c=10 d=6.94931 t=1279
+wan quan 	完全	c=2 d=1.3746 t=1279
+wang zhan 	网站	c=3 d=2.85586 t=1279
+wei 	为	c=10 d=8.62255 t=1279
+wei shen me 	为什么	c=20 d=11.694 t=1279
+wei xin 	微信	c=7 d=5.17339 t=1279
+wei zhun 	为准	c=3 d=2.09173 t=1279
+wen dang 	文档	c=4 d=2.26481 t=1279
+wen jian 	文件	c=3 d=1.97023 t=1279
+wen jian jia 	文件夹	c=2 d=1.52684 t=1279
+wen ti 	问题	c=3 d=2.62807 t=1279
+wen zi 	文字	c=4 d=3.37228 t=1279
+wo 	我	c=46 d=13.3473 t=1279
+wo ai ni 	我爱你	c=1 d=0.737123 t=1279
+wo de 	我的	c=6 d=3.35724 t=1279
+wo ji de 	我记得	c=2 d=1.92244 t=1279
+wo lia 	我俩	c=1 d=0.946485 t=1279
+wo yong 	我用	c=1 d=0.995012 t=1279
+wo zhao dao 	我找到	c=1 d=0.831104 t=1279
+wo zhi shi 	我只是	c=1 d=1 t=1226
+wu song pin yin 	雾凇拼音	c=2 d=1.89786 t=1279
+xi tong 	系统	c=2 d=1.58862 t=1279
+xia 	下	c=2 d=1.52295 t=1279
+xia mian 	下面	c=1 d=0.965605 t=1279
+xia zai 	下载	c=1 d=0.965605 t=1279
+xia zai dao 	下载到	c=1 d=0.748264 t=1279
+xian 	线	c=1 d=0.99005 t=1279
+xian shi 	显示	c=1 d=0.847894 t=1279
+xian you 	现有	c=1 d=0.995012 t=1279
+xian zai 	现在	c=19 d=8.70326 t=1279
+xiang 	想	c=6 d=4.21866 t=1279
+xiang mu 	项目	c=3 d=2.45389 t=1279
+xiao 	小	c=2 d=1.95581 t=1279
+xiao guo 	效果	c=2 d=1.87255 t=1279
+xiao he shuang pin 	小鹤双拼	c=1 d=0.97531 t=1279
+xiao shi 	消失	c=1 d=0.860708 t=1279
+xiao yi dian 	小一点	c=1 d=0.955997 t=1279
+xie tiao 	协调	c=1 d=0.814647 t=1279
+xin jian 	新建	c=2 d=1.88391 t=1279
+xiu fu 	修复	c=3 d=2.49544 t=1279
+xiu gai 	修改	c=9 d=4.84218 t=1279
+xiu gai le 	修改了	c=1 d=0.97531 t=1279
+xuan 	选	c=2 d=1.88839 t=1279
+xuan xiang 	选项	c=2 d=1.89871 t=1279
+xun huan 	循环	c=1 d=0.839457 t=1279
+yan se 	颜色	c=7 d=5.54673 t=1279
+yao 	要	c=1 d=1 t=1215
+ye 	也	c=1 d=0.960789 t=1279
+yi 	一	c=2 d=1.4108 t=1279
+yi 	以	c=3 d=2.07415 t=1279
+yi chu 	移除	c=7 d=4.78204 t=1279
+yi chu duo yu pei zhi 	移除多余配置	c=1 d=1 t=1279
+yi dian 	一点	c=1 d=0.970446 t=1279
+yi dian dian 	一点点	c=2 d=1.91259 t=1279
+yi dong 	移动	c=1 d=0.980199 t=1279
+yi fen 	一分	c=1 d=0.995012 t=1279
+yi ge 	一个	c=4 d=2.96035 t=1279
+yi hou 	以后	c=1 d=0.909373 t=1279
+yi lai 	依赖	c=1 d=0.733447 t=1279
+yi qian 	以前	c=1 d=0.985112 t=1279
+yi si 	意思	c=1 d=0.960789 t=1279
+yi xia 	一下	c=4 d=3.60815 t=1279
+yi xie 	一些	c=1 d=0.818731 t=1279
+yi yang 	一样	c=1 d=0.839457 t=1279
+yi zhi 	一直	c=1 d=0.818731 t=1279
+yi zhi 	一致	c=4 d=2.11273 t=1279
+yi zhi 	移植	c=0 d=0.0941765 t=1279
+yi zhi guo lai 	移植过来	c=1 d=0.946485 t=1279
+yin cang wen jian 	隐藏文件	c=1 d=0.852144 t=1279
+yin qing 	引擎	c=1 d=1 t=1279
+yin yong 	引用	c=1 d=1 t=1248
+yin yue bo fang qi 	音乐播放器	c=1 d=1 t=1279
+ying yong 	应用	c=10 d=7.02141 t=1279
+yong 	用	c=10 d=7.03481 t=1279
+you 	有	c=5 d=3.40952 t=1279
+you bian 	右边	c=1 d=0.965605 t=1279
+you dian 	有点	c=1 d=0.995012 t=1279
+you shang jiao 	右上角	c=1 d=1 t=1279
+you wen ti 	有问题	c=2 d=1.89985 t=1279
+you xi 	游戏	c=1 d=0.904837 t=1279
+you xie 	有些	c=1 d=0.980199 t=1279
+you yi xie 	有一些	c=1 d=0.955997 t=1279
+yu 	与	c=1 d=0.995012 t=1279
+yu zhou 	宇宙	c=1 d=1 t=1279
+yuan yin 	原因	c=2 d=1.64586 t=1279
+zai 	在	c=3 d=1.95831 t=1279
+zen me 	怎么	c=6 d=4.55932 t=1279
+zen me yong 	怎么用	c=1 d=0.941765 t=1279
+zen yang 	怎样	c=5 d=3.5634 t=1279
+zen yang de 	怎样的	c=1 d=0.985112 t=1279
+zhan yong 	占用	c=1 d=0.941765 t=1279
+zhang ku 	胀库	c=1 d=0.729789 t=1279
+zhao dao 	找到	c=1 d=0.806541 t=1279
+zhe 	哲	c=1 d=0.99005 t=1279
+zhe 	这	c=0 d=0.0955997 t=1279
+zhe ge 	这个	c=52 d=18.697 t=1279
+zhe he 	这和	c=1 d=0.806541 t=1279
+zhe li 	这里	c=2 d=1.80966 t=1279
+zhe li mian 	这里面	c=1 d=0.965605 t=1279
+zhe liang ge 	这两个	c=1 d=0.83527 t=1279
+zhe me 	这么	c=2 d=1.87888 t=1279
+zhe me da 	这么大	c=1 d=0.88692 t=1279
+zhe me man 	这么慢	c=1 d=0.97531 t=1279
+zhe shi 	这是	c=3 d=1.74146 t=1279
+zhe xie 	这些	c=5 d=2.96649 t=1279
+zhe yang 	这样	c=3 d=2.58211 t=1279
+zhen 	臻	c=1 d=0.810584 t=1279
+zhi 	只	c=1 d=1 t=1251
+zhi bao liu 	只保留	c=1 d=1 t=1220
+zhi chi 	支持	c=2 d=1.85183 t=1279
+zhi hou 	之后	c=2 d=1.78362 t=1279
+zhi jie 	直接	c=1 d=0.744532 t=1279
+zhi qian 	之前	c=4 d=3.75077 t=1279
+zhi zhen 	指针	c=1 d=0.980199 t=1279
+zhong 	中	c=1 d=0.97531 t=1279
+zhong wen 	中文	c=3 d=2.7214 t=1279
+zhu ti 	主题	c=12 d=6.51724 t=1279
+zhuang kuang 	状况	c=1 d=0.965605 t=1279
+zi dai 	自带	c=2 d=1.83062 t=1279
+zi dong 	自动	c=3 d=2.044 t=1279
+zi ji 	自己	c=2 d=1.47274 t=1279
+zi ji qu ming zi 	自己取名字	c=1 d=0.774916 t=1279
+zi juan 	子卷	c=1 d=0.895834 t=1279
+zi mu lu 	子目录	c=1 d=0.865022 t=1279
+zi se 	紫色	c=1 d=0.995012 t=1279
+zi ti 	字体	c=10 d=5.94968 t=1279
+zi ti fang an 	字体方案	c=1 d=0.767206 t=1279
+zi ti qing kuang 	字体情况	c=1 d=0.852144 t=1279
+zong 	纵	c=1 d=0.99005 t=1279
+zou 	走	c=1 d=0.980199 t=1279
+zuo bian 	左边	c=2 d=1.87697 t=1279
+zuo yong 	作用	c=3 d=2.85156 t=1279

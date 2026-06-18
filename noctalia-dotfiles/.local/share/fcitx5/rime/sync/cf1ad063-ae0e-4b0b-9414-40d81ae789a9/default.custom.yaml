@@ -1,0 +1,8 @@
+patch:
+  # 引入雾凇拼音默认配置
+  __include: rime_ice_suggestion:/
+
+  __patch:
+    # 只启用雾凇自带的小鹤双拼
+    schema_list:
+      - schema: double_pinyin_flypy
